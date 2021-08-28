@@ -1,1 +1,1 @@
-- Adding a new end effector to the robot arm using 3D programs.
+- Adding a new end effector to the robot arm, that will be suitable for its mission using 3D programs like tinkercad and 3D builder.
