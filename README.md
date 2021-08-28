@@ -1,1 +1,1 @@
-- Adding a new end effector to the robot arm with 3D programs.
+- Adding a new end effector to the robot arm using 3D programs.
