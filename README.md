@@ -1,2 +1,1 @@
-# Robot-New-End-Effector-
-Adding a new end effector to the robot.
+- Adding a new end effector to the robot arm with 3D programs.
